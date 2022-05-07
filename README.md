@@ -1,2 +1,2 @@
 # Digital-Clock
-Python digital clock project
+Simple Digital Clock using Python
